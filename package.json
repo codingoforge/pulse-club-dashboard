@@ -1,0 +1,1 @@
+{"name":"pulse-club-dashboard","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test test/ai.test.mjs"},"engines":{"node":">=22"}}
